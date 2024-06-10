@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Luis A. Santiago - Innovation Coach</title>
+    <link>https://lsantiago.net/posts/</link>
+    <description>Recent content in Posts on Luis A. Santiago - Innovation Coach</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 17:50:18 +0200</lastBuildDate>
+    <atom:link href="https://lsantiago.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome and Hello World</title>
+      <link>https://lsantiago.net/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Jun 2024 17:50:18 +0200</pubDate>
+      <guid>https://lsantiago.net/posts/my-first-post/</guid>
+      <description>Hello! I&amp;rsquo;m thrilled to have you here.
+Who Am I? My name is Luis A. Santiago, and I am a Dominican software engineer, entrepreneur, and innovation expert. With over 20 years of experience in software development, innovation, consulting, and more, I have dedicated my career to helping entrepreneurs and organizations create better futures, one micro-sprint at a time.
+I am the author of the MicroCanvas Framework (MCF) 2.0, an open-source innovation framework that proposes better ways of creating and transforming organizations.</description>
+    </item>
+  </channel>
+</rss>

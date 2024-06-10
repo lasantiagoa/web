@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lsantiago.net/</loc>
+    <lastmod>2024-06-10T17:50:18+02:00</lastmod>
+  </url><url>
+    <loc>https://lsantiago.net/posts/</loc>
+    <lastmod>2024-06-10T17:50:18+02:00</lastmod>
+  </url><url>
+    <loc>https://lsantiago.net/posts/my-first-post/</loc>
+    <lastmod>2024-06-10T17:50:18+02:00</lastmod>
+  </url><url>
+    <loc>https://lsantiago.net/categories/</loc>
+  </url><url>
+    <loc>https://lsantiago.net/tags/</loc>
+  </url>
+</urlset>

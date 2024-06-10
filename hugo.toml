@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lsantiago.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Luis A. Santiago - Innovation Coach'
+theme='PaperMod' 
+ 
+ 
