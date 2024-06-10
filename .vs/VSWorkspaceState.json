@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\content",
-    "\\content\\posts"
+    "\\content\\posts",
+    "\\public"
   ],
-  "SelectedNode": "\\hugo.toml",
+  "SelectedNode": "\\.github\\workflows\\hugo.yaml",
   "PreviewInSolutionExplorer": false
 }
