@@ -5,8 +5,9 @@
     "\\.github\\workflows",
     "\\content",
     "\\content\\posts",
-    "\\public"
+    "\\public",
+    "\\themes\\PaperMod"
   ],
-  "SelectedNode": "\\.github\\workflows\\hugo.yaml",
+  "SelectedNode": "\\public\\index.html",
   "PreviewInSolutionExplorer": false
 }

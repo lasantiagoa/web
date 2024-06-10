@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\.github\\workflows\\hugo.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\hugo.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\content\\posts\\my-first-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\posts\\my-first-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "hugo.yaml",
-              "DocumentMoniker": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\.github\\workflows\\hugo.yaml",
-              "RelativeDocumentMoniker": ".github\\workflows\\hugo.yaml",
-              "ToolTip": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\.github\\workflows\\hugo.yaml",
-              "RelativeToolTip": ".github\\workflows\\hugo.yaml",
-              "ViewState": "AQIAACsAAABkZmZmZuYpwE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-06-10T17:10:16.724Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AQIAAD0AAACAZmZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-10T17:31:18.205Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "my-first-post.md",
-              "DocumentMoniker": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\content\\posts\\my-first-post.md",
-              "RelativeDocumentMoniker": "content\\posts\\my-first-post.md",
-              "ToolTip": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\content\\posts\\my-first-post.md",
-              "RelativeToolTip": "content\\posts\\my-first-post.md",
-              "ViewState": "AQIAAAIAAAAAzczMzIwjwAMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-10T16:31:09.736Z"
             },
             {
               "$type": "Document",
@@ -57,7 +41,7 @@
               "RelativeDocumentMoniker": "hugo.toml",
               "ToolTip": "C:\\HB9HJU_BkSSD\\Dropbox\\LS\\Projects\\web\\hugo.toml",
               "RelativeToolTip": "hugo.toml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-10T16:31:05.431Z",
               "EditorCaption": ""
